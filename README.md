@@ -7,7 +7,7 @@ Gerador de títulos e descrições de vídeos por meio da API Openai
 
 ```bash
 ## Clone the repository
-git clone 
+git clone https://github.com/Nico-Nascimento/upload-ai.git
 
 ## Install client dependencies
 cd web
